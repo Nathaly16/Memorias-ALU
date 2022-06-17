@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/Memorias/Memoria_RAM.xst" -ofn "C:/Xilinx/Memorias/Memoria_RAM.syr" 

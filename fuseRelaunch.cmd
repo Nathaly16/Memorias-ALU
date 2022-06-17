@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/Memorias/TB_ALU8bits_isim_beh.exe" -prj "C:/Xilinx/Memorias/TB_ALU8bits_beh.prj" "work.TB_ALU8bits" 
